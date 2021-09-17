@@ -16,7 +16,7 @@ Run the code:
 
 `-d` lets you define a directory to reorganize. For example:
 
-```python manager.py -d C:\Users\ThinkPad\Documents\School```
+```python manager.py -d C:\Users\ThinkPad\Documents\```
 
 If not supplied, the ```TARGET_DIR``` value defined in the code will be used instead.
 
@@ -26,4 +26,4 @@ If not supplied, the ```TARGET_DIR``` value defined in the code will be used ins
 
 or:
 
-```python manager.py -f -d C:\Users\ThinkPad\Documents\School```
+```python manager.py -f -d C:\Users\ThinkPad\Documents\```
