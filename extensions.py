@@ -21,6 +21,7 @@ EXTENSIONS = {
     '.pptm': 'Documents',
     '.rtf': 'Documents',
     '.sldx': 'Documents',
+    '.log': 'Documents',
     
     '.jpg': 'Images',
     '.png': 'Images',
