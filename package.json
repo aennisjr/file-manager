@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aennisjr/downloads-manager.git"
+    "url": "git+https://github.com/aennisjr/file-manager.git"
   },
   "author": "A. Ennis https://github.com/aennisjr/",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aennisjr/downloads-manager/issues"
+    "url": "https://github.com/aennisjr/file-manager/issues"
   },
-  "homepage": "https://github.com/aennisjr/downloads-manager#readme"
+  "homepage": "https://github.com/aennisjr/file-manager#readme"
 }
