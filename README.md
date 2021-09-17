@@ -1,2 +1,2 @@
-# downloads-manager
-Manage files in your downloads folder automatically.
+# file-manager
+Manage files in your Windows folder automatically.
