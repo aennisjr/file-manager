@@ -1,5 +1,6 @@
 import shutil, os, sys
 from extensions import EXTENSIONS, STORAGE_DIRS
+from win10toast import ToastNotifier
 
 args = sys.argv[1:]
 
@@ -79,6 +80,5 @@ if files_not_moved:
 
 # Toast alert in Windows
 if files_moved or files_not_moved:    
-    from win10toast import ToastNotifier
     toaster = ToastNotifier()
     toaster.show_toast(str(len(files_moved)) + " file(s) moved.", str(len(files_not_moved)) + " file(s) could not be moved.")
